@@ -7,8 +7,8 @@ public class Main {
         String secondWord;
         int firstNumber, secondnumber;
 
-//        firstWord = "sun";
-//        secondWord = "flower";
+        firstWord = "sun";
+        secondWord = "flower";
 //        firstNumber = 6;
 //        secondnumber = 12;
 //
