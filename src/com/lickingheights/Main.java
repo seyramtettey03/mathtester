@@ -11,9 +11,9 @@ public class Main {
         secondWord = "flower";
        firstNumber = 6;
        secondnumber = 12;
-//
-//        System.out.println (firstWord + secondWord);
-//        System.out.println(firstWord+ firstNumber+ secondnumber);
+
+        System.out.println (firstWord + secondWord);
+        System.out.println(firstWord+ firstNumber+ secondnumber);
 //        System.out.println("firstNumber + seondnumber is"+ (firstNumber+secondnumber));
 //        System.out.println("firstNumber-secondmunber is"+(firstNumber-secondnumber));
 //        System.out.println("econdnumber /firstNumber is "+(secondnumber/firstNumber));
