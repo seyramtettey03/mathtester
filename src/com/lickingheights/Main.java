@@ -9,8 +9,8 @@ public class Main {
 
         firstWord = "sun";
         secondWord = "flower";
-//        firstNumber = 6;
-//        secondnumber = 12;
+       firstNumber = 6;
+       secondnumber = 12;
 //
 //        System.out.println (firstWord + secondWord);
 //        System.out.println(firstWord+ firstNumber+ secondnumber);
